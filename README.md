@@ -1,8 +1,7 @@
-creat me a readme file for this C - Stacks, Queues - LIFO, FIFO repo in github
-"Creating a README file for a C repository on Stacks and Queues LIFO FIFO"
-ANSWER | BEST MODEL
 
-C - Stacks, Queues - LIFO, FIFO
+
+ ## C - Stacks, Queues - LIFO, FIFO$
+ --------------------------------------------------------------------------------
 This repository contains an implementation of a simple stack and queue data structure in C language. The stack follows the Last In First Out (LIFO) principle, while the queue follows the First In First Out (FIFO) principle.
 
 Objectives
