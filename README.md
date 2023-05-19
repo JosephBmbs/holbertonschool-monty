@@ -6,22 +6,22 @@
  --------------------------------------------------------------------------------
 This repository contains an implementation of a simple stack and queue data structure in C language. The stack follows the Last In First Out (LIFO) principle, while the queue follows the First In First Out (FIFO) principle.
 
-Objectives
+# Objectives
 Understand the concepts of LIFO and FIFO and how they apply to stacks and queues.
 Implement a simple stack and queue data structure in C language.
-Stack
+# Stack
 A stack is a data structure where items can only be added and removed from the end. This is a LIFO (Last In, First Out) procedure. In this implementation, the stack is represented by a linked list, and it supports two main operations: push and pall.
 
-Push opcode: Pushes an element onto the stack.
+* Push opcode: Pushes an element onto the stack.
 
-Pall opcode: Prints all the values on the stack, starting from the top of the stack. If the stack is empty, it doesn't print anything.
+* Pall opcode: Prints all the values on the stack, starting from the top of the stack. If the stack is empty, it doesn't print anything.
 
-Queue
+# Queue
 A queue is a data structure where items can only be added to the end and removed from the beginning. This is a FIFO (First In, First Out) procedure. In this implementation, the queue is represented by a linked list, and it supports two main operations: enqueue and dequeue.
 
-Enqueue opcode: Adds an element to the end of the queue.
+* Enqueue opcode: Adds an element to the end of the queue.
 
-Dequeue opcode: Removes the element from the beginning of the queue.
+* Dequeue opcode: Removes the element from the beginning of the queue.
 
 #### Example
 * Here is an example of how to use the implemented stack and queue:
