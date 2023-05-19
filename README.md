@@ -1,6 +1,8 @@
 
+<h1 align="center">
+	    C - Stacks, Queues - LIFO, FIFO$
+</h1>
 
- ## C - Stacks, Queues - LIFO, FIFO$
  --------------------------------------------------------------------------------
 This repository contains an implementation of a simple stack and queue data structure in C language. The stack follows the Last In First Out (LIFO) principle, while the queue follows the First In First Out (FIFO) principle.
 
