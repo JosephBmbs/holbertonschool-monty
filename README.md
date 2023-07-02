@@ -84,4 +84,4 @@ void pall(stack_element *stack) {
 2
 1
 
-As expected, the pall opcode prints all the values on the stack, starting from the top of the stack.
+As expected, the pall opcode prints all the values on the stack, starting from the top of the stack.cd
